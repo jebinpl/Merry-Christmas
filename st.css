@@ -1,0 +1,30 @@
+
+/**************TAG SELECTORS***************/
+.font{ color: brown;
+   font-size: 50px;
+   font-family: Geneva ;
+}
+
+.font1{color: brown;
+   font-size: 40px;}
+
+   .font2{color: palevioletred;
+      font-size: 20px;
+   font-style: inherit;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+hr
+{
+ height: 0px;
+ width: 75%;
+}
+
+.crib 
+{
+   background-color: #FAF7F0;
+   width: 50%;
+   height: auto;
+
+ }
+
+body{background-color: #FAF7F0;}
